@@ -1,3 +1,24 @@
 # Books-Store
 trang chủ website
 ![image](https://user-images.githubusercontent.com/74332737/173276600-93b1b758-87ec-4acb-92b5-cd77ea2a9fb0.png)
+trang giỏ hàng 
+![image](https://user-images.githubusercontent.com/74332737/173276925-17828ba1-7044-4598-896c-7abb9e41787f.png)
+trang đặt hàng
+![image](https://user-images.githubusercontent.com/74332737/173276975-f7ffbc42-6ac2-4a4e-b49c-1d4e03fd5998.png)
+# các tính năng của web
+1- tính năng phân loại từng cuốn sách 
+![image](https://user-images.githubusercontent.com/74332737/173277097-7ba6e3dd-2b98-4203-a281-e3198b87c73f.png)
+- giúp phân loại sách theo từng thể loại tìm kiếm
+- ![image](https://user-images.githubusercontent.com/74332737/173277232-876d0281-1a8e-4a91-93c0-f548b6edecb9.png)
+2- tính năng thêm sách vào giỏ hàng
+![image](https://user-images.githubusercontent.com/74332737/173277335-7b2d8467-2c45-4e1c-bd84-8d2e197931af.png)
+- khi nhấn nút add to cart thì sách sẻ được thêm vào giỏ hàng 
+- ![image](https://user-images.githubusercontent.com/74332737/173277422-93082b64-ade0-4a96-9fa1-468155e81f0f.png)
+= ![image](https://user-images.githubusercontent.com/74332737/173277473-6bda654e-a1c4-4d7b-8eed-651d0d1559b4.png)
+3 tính năng remote giúp loại bỏ những cuốn sách không muốn khỏi giỏ hàng 
+![image](https://user-images.githubusercontent.com/74332737/173277598-972e60c9-de07-414d-9c83-e6635fbded15.png)
+![image](https://user-images.githubusercontent.com/74332737/173277618-8d3cf2ca-8724-4a22-ad2c-5ba78ac74d0c.png)
+4 tính năng checkout để đặt hàng và mua sản phẩm
+![image](https://user-images.githubusercontent.com/74332737/173277725-405a6688-7086-4f0c-a31e-d9e428e5eafd.png)
+
+
