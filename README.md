@@ -9,7 +9,7 @@ trang đặt hàng
 1- tính năng phân loại từng cuốn sách 
 ![image](https://user-images.githubusercontent.com/74332737/173279168-77fef498-b973-4377-88b7-cb7487d126b8.png)
 - giúp phân loại sách theo từng thể loại tìm kiếm
-- ![image](https://user-images.githubusercontent.com/74332737/173277232-876d0281-1a8e-4a91-93c0-f548b6edecb9.png)
+- ![image](https://user-images.githubusercontent.com/74332737/173279270-0bf23ceb-c351-4fff-ac47-4c2e0e78ccfd.png)
 2- tính năng thêm sách vào giỏ hàng
 ![image](https://user-images.githubusercontent.com/74332737/173277335-7b2d8467-2c45-4e1c-bd84-8d2e197931af.png)
 - khi nhấn nút add to cart thì sách sẻ được thêm vào giỏ hàng 
