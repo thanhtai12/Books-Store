@@ -11,7 +11,7 @@ trang đặt hàng
 - giúp phân loại sách theo từng thể loại tìm kiếm
 - ![image](https://user-images.githubusercontent.com/74332737/173279270-0bf23ceb-c351-4fff-ac47-4c2e0e78ccfd.png)
 2- tính năng thêm sách vào giỏ hàng
-![image](https://user-images.githubusercontent.com/74332737/173277335-7b2d8467-2c45-4e1c-bd84-8d2e197931af.png)
+![image](https://user-images.githubusercontent.com/74332737/173279359-8cc93c6b-8088-4ff8-93e2-d1fd4290ede9.png)
 - khi nhấn nút add to cart thì sách sẻ được thêm vào giỏ hàng 
 - ![image](https://user-images.githubusercontent.com/74332737/173277422-93082b64-ade0-4a96-9fa1-468155e81f0f.png)
 = ![image](https://user-images.githubusercontent.com/74332737/173277473-6bda654e-a1c4-4d7b-8eed-651d0d1559b4.png)
