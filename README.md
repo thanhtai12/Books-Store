@@ -23,6 +23,20 @@ trang đặt hàng
 5 trang Admin để kiểm tra cài đặt và Order khi truy cập https://localhost:44347/admin
 - phần Books liệt kê những cuốn sách đang có trong cửa hàng
 ![image](https://user-images.githubusercontent.com/74332737/173278124-2f9bce99-cee1-4922-a40b-f45b24345979.png)
+
+- nhấn Details để xem thông tin cuốn sách
+
+![image](https://user-images.githubusercontent.com/74332737/173278571-855e66c1-5978-4a73-a1c2-18b44dfba65a.png)
+
+- nhấn Edit để chỉnh sửa thông tin cuốn sách 
+
+![image](https://user-images.githubusercontent.com/74332737/173278650-4fc803c4-076a-4e87-93ef-0d32532aaf2e.png)
+
+- và nhấn Delete để xóa cuốn sách khỏi cửa hàng 
+
+![image](https://user-images.githubusercontent.com/74332737/173278742-ecc5eac3-dfaa-4f32-8135-93b2bd98acb7.png)
+
+
 - Phần Order liệt kê cuốn sách đã được khách đặt mua
 ![image](https://user-images.githubusercontent.com/74332737/173278187-a2ba4a93-055c-4366-8a3f-96efb39f835e.png)
 
