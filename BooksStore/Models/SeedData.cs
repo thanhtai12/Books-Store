@@ -21,39 +21,67 @@ namespace BooksStore.Models
                 context.Books.AddRange(
                new Book
                {
-                   Title = "GoSick",
-                   Description = "https://upload.wikimedia.org/wikipedia/vi/thumb/b/b0/Gosick_vol_1.jpg/220px-Gosick_vol_1.jpg",
+                   Title = "To Kill a Mockingbird, by Harper Lee",
+                   Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/50-anniversary-cover1.jpg",
                    Genre = "horrified",
                    Price = 20.000m
                },
                 new Book
                 {
-                    Title = "Gintama",
-                    Description = "https://truyenkinhdien.com/wp-content/uploads/2021/10/gintama.jpg",
+                    Title = "1984, by George Orwell",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/1984.jpg",
                     Genre = "detective",
                     Price = 20.000m
                 },
                 new Book
                 {
-                    Title = "Golden kamuy",
-                    Description = "https://image.lakemanga.xyz/2021/truyen/golden-kamuy-con-sot-vang-sau-chien-tranh/logo-golden-kamuy-lake-manga-1612107401.jpg",
+                    Title = "Harry Potter and the Philosopher’s Stone, by J.K. Rowling",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/harry_potter_and_the_Sorcerers_stone_adult_usa.jpg",
                     Genre = "humor",
                     Price = 2m
                 },
                 new Book
                 {
-                    Title = "Ookami To Koushinryou",
-                    Description = "http://cdn5.truyentranh8.net/hdd2/u/Pmk/2438-Ookami_to_Koushinryou_Wolf_and_Spice/001-53057/004.jpg",
+                    Title = "The Lord of the Rings, by J.R.R. Tolkien",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/9780618640157_custom-s6-c30.jpg",
                     Genre = "History",
                     Price = 20.000m
                 },
                 new Book
                 {
-                    Title = "Dantalian No Shoka",
-                    Description = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405156429l/22711795.jpg",
+                    Title = "The Great Gatsby, by F. Scott Fitzgerald",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/Penguin-2.jpg",
                     Genre = "humor",
                     Price =20.000m
-                }
+                },
+                new Book
+                {
+                    Title = "Pride and Prejudice, by Jane Austen",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/pride_and_prejudice_book_cover_by_fourblackbirds-d533108.png",
+                    Genre = "History",
+                    Price = 20.000m
+                },
+                new Book
+                {
+                    Title = "The Diary Of A Young Girl, by Anne Frank",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/diary-of-anne-frank-postcard-front_0.jpg",
+                    Genre = "humor",
+                    Price =20.000m
+                },
+                new Book
+                {
+                    Title = "The Book Thief, by Markus Zusak",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/71h2sjik5al-_sl1380_.jpg",
+                    Genre = "humor",
+                    Price =20.000m
+                },
+                new Book
+                {
+                    Title = "The Hobbit, by J.R.R. Tolkien",
+                    Description = "https://cdn.lifehack.org/wp-content/uploads/2015/03/Hobbit_book.jpg",
+                    Genre = "humor",
+                    Price =20.000m
+                },
                 );
 
                 context.SaveChanges();
