@@ -7,7 +7,7 @@ trang đặt hàng
 ![image](https://user-images.githubusercontent.com/74332737/173276975-f7ffbc42-6ac2-4a4e-b49c-1d4e03fd5998.png)
 # các tính năng của web
 1- tính năng phân loại từng cuốn sách 
-![image](https://user-images.githubusercontent.com/74332737/173277097-7ba6e3dd-2b98-4203-a281-e3198b87c73f.png)
+![image](https://user-images.githubusercontent.com/74332737/173279168-77fef498-b973-4377-88b7-cb7487d126b8.png)
 - giúp phân loại sách theo từng thể loại tìm kiếm
 - ![image](https://user-images.githubusercontent.com/74332737/173277232-876d0281-1a8e-4a91-93c0-f548b6edecb9.png)
 2- tính năng thêm sách vào giỏ hàng
