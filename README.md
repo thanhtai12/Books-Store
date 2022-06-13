@@ -20,5 +20,10 @@ trang đặt hàng
 ![image](https://user-images.githubusercontent.com/74332737/173277618-8d3cf2ca-8724-4a22-ad2c-5ba78ac74d0c.png)
 4 tính năng checkout để đặt hàng và mua sản phẩm
 ![image](https://user-images.githubusercontent.com/74332737/173277725-405a6688-7086-4f0c-a31e-d9e428e5eafd.png)
+5 trang Admin để kiểm tra cài đặt và Order khi truy cập https://localhost:44347/admin
+- phần Books liệt kê những cuốn sách đang có trong cửa hàng
+![image](https://user-images.githubusercontent.com/74332737/173278124-2f9bce99-cee1-4922-a40b-f45b24345979.png)
+- Phần Order liệt kê cuốn sách đã được khách đặt mua
+![image](https://user-images.githubusercontent.com/74332737/173278187-a2ba4a93-055c-4366-8a3f-96efb39f835e.png)
 
 
